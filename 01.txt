@@ -1,0 +1,3 @@
+01.txt
+W1 local
+W2 local
